@@ -7,8 +7,11 @@
 - 💬 Mergulhando em tecnologia com Alura 
 <div>
   <a href='https://github.com/diegodeovieira'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&size_weight=0.5&count_weight=0.5&theme=dracula"/>
 </div>
+
+
 
 
 <!--
