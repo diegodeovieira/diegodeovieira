@@ -4,7 +4,7 @@
 - 🌱 No momento estou estudando  tecnologia  Front-end
 - 👯  HTML  CSS   JS
 - 😄 Pronome ele/dele
-- 💬 Mergulhando em tecnologia com Alura 
+- 💬 Mergulhando em tecnologia 💻🖥 
 <div>
   <a href='https://github.com/diegodeovieira'>
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula"/>
