@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com atendimento ao cliente na Drogaria Tamoio
 - 🌱 No momento estou estudando  tecnologia  Front-end
-- 👯  HTML  CSS   JS
+- 👯  HTML CSS JS PYTHON  
 - 😄 Pronome ele/dele
 - 💬 Mergulhando em tecnologia 💻🖥 
 <div>
