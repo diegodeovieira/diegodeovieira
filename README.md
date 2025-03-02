@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com atendimento ao cliente na Drogaria Tamoio
 - 🌱 No momento estou estudando  tecnologia  Front-end
-- 👯  HTML CSS JS PYTHON  
+- 👯  HTML CSS JS PYTHON PHP 
 - 😄 Pronome ele/dele
 - 💬 Mergulhando em tecnologia 💻🖥 
 <div>
@@ -16,6 +16,7 @@
 <img align="center" alt="Digo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Digo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" alt="Digo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
+<img align="center" alt="Digo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 <!--
 **diegodeovieira/diegodeovieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
