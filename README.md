@@ -4,7 +4,8 @@
 - 🌱 No momento estou estudando  tecnologia  Front-end
 - 👯  HTML, CSS, JS, PYTHON, PHP 
 - 😄 Pronome ele/dele
-- 💬 Mergulhando em tecnologia 💻🖥 
+- 💬 Mergulhando em tecnologia 💻🖥
+ 
 <div align="center">
   <a href="https://github.com/diegodeovieira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
