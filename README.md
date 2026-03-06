@@ -5,10 +5,11 @@
 - 👯  HTML, CSS, JS, PYTHON, PHP 
 - 😄 Pronome ele/dele
 - 💬 Mergulhando em tecnologia 💻🖥 
-<div>
-   <a href="https://github.com/diegodeovieira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&layout=compact&langs_count=6&theme=gruvbox"/>
+<div align="center">
+  <a href="https://github.com/diegodeovieira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&layout=compact&langs_count=6&theme=gruvbox" alt="Linguagens mais usadas" />
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
