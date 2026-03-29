@@ -11,12 +11,12 @@
 
 ### 🤖 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" height="190" style="padding-right: 10px;"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=6" alt="Linguagens mais usadas" height="190"
-  />
-</p>
+<div>
+  <a href="https://github.com/diegodeovieira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&layout=compact&langs_count=6&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
