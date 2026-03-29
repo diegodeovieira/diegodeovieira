@@ -5,15 +5,22 @@
 - 👯  HTML, CSS, JS, PYTHON, PHP 
 - 😄 Pronome ele/dele
 - 💬 Mergulhando em tecnologia 💻🖥
+---
 
 
- 
-<div align="center">
-  <a href="https://github.com/diegodeovieira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=dracula&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
+
+### 🤖 Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" height="190" style="padding-right: 10px;"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=6" alt="Linguagens mais usadas" height="190"
+  />
+</p>
+
+---
+
+### Linguagem é Tecnologia
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
