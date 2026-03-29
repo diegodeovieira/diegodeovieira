@@ -11,21 +11,8 @@
 
 ### 🤖 Estatísticas
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=diegodeovieira&show_icons=true&theme=tokyonight&locale=pt-br" 
-    alt="Estatísticas do GitHub" 
-    height="190px" 
-    style="padding-right: 10px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodeovieira&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9" 
-    alt="Linguagens mais usadas" 
-    height="150px" 
-  />
-</p>
+![Estatísticas de Diego](https://github-readme-stats-one.vercel.app/api?username=diegodeovieira&show_icons=true&theme=tokyonight&locale=pt-br&height=120)  ![Sequência de Diego](https://github-readme-streak-stats.herokuapp.com/?user=diegodeovieira&theme=tokyonight&locale=pt-br&height=130) 
 
----
 
 ### Linguagem é Tecnologia
     
